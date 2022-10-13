@@ -208,8 +208,8 @@
   background-repeat: no-repeat;
   background-position: center;
   margin-right: 12px;
-  max-width: 24px;
-  max-height: 24px;
+  width: 24px;
+  height: 24px;
 }
 
 .event-info__icon_type_calendar {
